@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idriss-code
-- 👀 I’m interested in 3d modeling an animation
-- 🌱 I’m currently learning C OpenSsl Oftp
+- 👀 I’m interested in 3d modeling and animation
+- 🌱 I’m currently learning C OpenSsl and Oftp
 - 💞️ I’m looking to collaborate on Video Game
 - 📫 How to reach me ...
 
